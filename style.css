@@ -1,0 +1,46 @@
+header{
+  /* height: 80px; */
+  border-bottom: 1px solid grey;
+}
+
+.logo img{
+  width: 100px;
+}
+
+nav ul {
+  list-style: none;
+}
+
+nav ul li{
+  margin: 0;
+  /* padding-left: 0 !important; */
+  padding: 10px;
+}
+
+h1{
+  padding:0 300px;
+  padding-top: 50px;
+  color: rgb(60, 64, 67);
+}
+
+p{
+  padding:0 300px;
+  /* padding-top: 50px; */
+}
+
+ol{
+  padding:0 300px;
+  padding-top: 50px;
+}
+ 
+ol:last-child{
+  padding: 0;
+}
+ol:last-child li{
+  padding: 20px;
+}
+h3{
+  padding:0 300px;
+  padding-top: 50px;
+  color: rgb(60, 64, 67);
+}
